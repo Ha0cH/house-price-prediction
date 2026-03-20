@@ -38,9 +38,11 @@ It demonstrates an end-to-end workflow including data preprocessing, model train
 ---
 
 ## Project Structure
+```
 house-price-prediction/
 ├── house_price_prediction.py
 └── README.md
+```
 
 ---
 
